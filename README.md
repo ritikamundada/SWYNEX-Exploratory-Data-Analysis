@@ -36,9 +36,9 @@ The Excel workbook includes:
 
 ## Project Files
 
- excel file Contains the cleaned dataset, data quality summary, EDA analysis, Pivot Tables, Pivot Charts, and key insights.
+ Excel file Contains the cleaned dataset, data quality summary, EDA analysis, Pivot Tables, Pivot Charts, and key insights.
 
-project video  – Demonstration video of the analysis, if uploaded to the repository.
+Project video  – Demonstration video of the analysis, if uploaded to the repository.
 
 ## Conclusion
 
